@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [v3.14.2] - 2022-08-29
 ### :bug: Bug Fixes
 - [`20cdb44`](https://github.com/ietf-tools/xml2rfc/commit/20cdb4460436a7edbebc9807d1c3305e90d0269d) - Fix odd page break inside rows in PDF output *(PR [#879](https://github.com/ietf-tools/xml2rfc/pull/879) by [@kesara](https://github.com/kesara))*
-- [`2c9dfaf`](https://github.com/ietf-tools/xml2rfc/commit/2c9dfafa0f4c32399f9b8e31ef9926c3e5ea7b65) - Return orgnization for orgnization only contacts *(PR [#837](https://github.com/ietf-tools/xml2rfc/pull/837) by [@kesara](https://github.com/kesara))*
+- [`2c9dfaf`](https://github.com/ietf-tools/xml2rfc/commit/2c9dfafa0f4c32399f9b8e31ef9926c3e5ea7b65) - Return organization for organization only contacts *(PR [#837](https://github.com/ietf-tools/xml2rfc/pull/837) by [@kesara](https://github.com/kesara))*
 - [`9821dc6`](https://github.com/ietf-tools/xml2rfc/commit/9821dc6cd19e905cf05c3d92223311520575d2f2) - RTL unicode issue in PDF *(PR [#884](https://github.com/ietf-tools/xml2rfc/pull/884) by [@kesara](https://github.com/kesara))*
 
 
