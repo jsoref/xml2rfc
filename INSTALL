@@ -24,7 +24,7 @@ Windows Pre-installation Requirements
 If you install python onto a windows system, there is a requirement that two additional
 packages be installed at the same time.
 
-'setup.py' requires the distribution package.  This is current accessble as 'ez_setup'
+'setup.py' requires the distribution package.  This is current accessible as 'ez_setup'
 (https://pypi.python.org/pypi/ez_setup).
 
 The 'lxml' library is required to be installed as a binary build.  This is currently 
