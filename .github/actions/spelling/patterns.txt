@@ -83,6 +83,13 @@ GHSA(?:-[0-9a-z]{4}){3}
 
 _regex = .*
 
+i18n
+
+\[[A-Z][a-z]\]\w+
+
+# %s
+%s(?=c)
+
 # acceptable duplicates
 # ls directory listings
 [-bcdlpsw](?:[-r][-w][-sx]){3}\s+\d+\s+(\S+)\s+\g{-1}\s+\d+\s+

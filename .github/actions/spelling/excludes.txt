@@ -60,3 +60,4 @@ ignore$
 ^\Qdoc/searchindex.js\E$
 ^\Qxml2rfc/uniscripts/__init__.py\E$
 ^\Qxml2rfc/uniscripts/unidata.py\E$
+^\QCHANGELOG.md\E$
